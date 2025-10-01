@@ -3,19 +3,19 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
 ###
@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heydivinka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heydivinka&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=material-palenight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heydivinka&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=material-palenight&hide_border=true" height="250" alt="languages graph"  />
 </div>
 
 ###
