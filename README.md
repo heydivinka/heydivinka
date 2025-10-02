@@ -28,27 +28,6 @@
 
 ###
 
-<h2 align="left">You can find me on:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@__divinka" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="57" height="45" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/divinkaa__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="45" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/divinka-azani-3a64b2354/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/divinkaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="57" height="45" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <picture>
@@ -59,15 +38,40 @@
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heydivinka&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false&custom_title=Recent%20Contributions" height="250" alt="activity-graph graph"  />
+<br clear="both">
+
+<h3 align="left">You can find me on:</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.youtube.com/@__divinka" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/divinka-azani-3a64b2354/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/divinkaa__/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/divinkaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<h3 align="center">Spotify username: ︵ ‿ ︵</h3>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31nwcbkkxy3r6y5qka637ik5pxfu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nwcbkkxy3r6y5qka637ik5pxfu&count=1" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nwcbkkxy3r6y5qka637ik5pxfu&count=3" alt="Spotify recently played"  />
   </a>
 </div>
 
